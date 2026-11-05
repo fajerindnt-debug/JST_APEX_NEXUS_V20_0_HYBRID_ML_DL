@@ -1,4 +1,4 @@
-JST APEX NEXUS V20.2
+JST APEX NEXUS V20.3
 
 JUMP STREET TRADING — Hybrid Quant Research Engine
 
