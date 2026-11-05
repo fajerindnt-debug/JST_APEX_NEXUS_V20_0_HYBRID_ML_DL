@@ -9,7 +9,7 @@ Research, signal generation, quantitative analysis, and paper-trading environmen
 Repository Files
 
 - "app.py" — Streamlit dashboard and system interface.
-- "jst_engine.py" — JST APEX NEXUS V20.2 research and signal engine.
+- "jst_engine.py" — JST APEX NEXUS V20.3 research and signal engine.
 - "requirements.txt" — Core Python dependencies.
 
 Core Capabilities
